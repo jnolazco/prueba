@@ -3,6 +3,6 @@ import pandas as pd
 
 st.write("Adsoft Pandas:")
 st.write(pd.DataFrame({
-    'x': [1, 2, 3, 4],
-    'y': [10, 20, 30, 40]
+    'x': [1, 2, 3, 4,5],
+    'y': [10, 20, 30, 40,50]
 }))
